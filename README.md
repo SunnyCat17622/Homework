@@ -1,2 +1,2 @@
-# Homework
-学校程序设计作业记录在此
+# Homework of NANJING UNIVERSITY OF FIANCE & ECONOMICS
+C After School Assignment
